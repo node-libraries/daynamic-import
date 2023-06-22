@@ -1,0 +1,11 @@
+{
+  "name": "@node-libraries/dynamic-import",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/node-libraries/daynamic-import",
+  "author": "SoraKumo <info@croud.jp>"
+}
