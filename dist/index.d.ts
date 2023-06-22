@@ -1,1 +1,3 @@
-export declare const dynamicImport: <T = any>(path: string) => Promise<T>;
+export declare const dynamicImport: <T extends typeof import(unknown)>(
+  path: string
+) => Promise<T>;
